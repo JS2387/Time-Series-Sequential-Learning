@@ -18,6 +18,6 @@ In this lab we make use of a non-linear state space model for analyzing the dyna
 
 In this lab we will explore different RNN models and training procedures for a problem in time series prediction. We will build a model for predicting the number of sunspots. We work with a data set that has been published on Kaggle, with the description:
 
-_"Sunspots are temporary phenomena on the Sun's photosphere that appear as spots darker than the surrounding areas. They are regions of reduced surface temperature caused by concentrations of magnetic field flux that inhibit convection. Sunspots usually appear in pairs of opposite magnetic polarity. Their number varies according to the approximately 11-year solar cycle."
-_
+"Sunspots are temporary phenomena on the Sun's photosphere that appear as spots darker than the surrounding areas. They are regions of reduced surface temperature caused by concentrations of magnetic field flux that inhibit convection. Sunspots usually appear in pairs of opposite magnetic polarity. Their number varies according to the approximately 11-year solar cycle."
+
 The data consists of the monthly mean total sunspot number, from 1749-01-01 to 2017-08-31.
